@@ -1,1 +1,1 @@
-web: gunicorn exchangeme-api-heroku:app
+web: gunicorn app:app
