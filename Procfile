@@ -1,1 +1,1 @@
-web: gunicorn ExchangeMe:app
+web: gunicorn app:app
