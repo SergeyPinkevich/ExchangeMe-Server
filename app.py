@@ -9,7 +9,13 @@ app = Flask(__name__)
 
 @app.route('/rates')
 def hello_world():
-    return requests.get("http://www.floatrates.com/daily/usd.json").text
+    response = requests.get("http://www.floatrates.com/daily/usd.json")
+    json_response = json.loads(response.text)
+    formatted_json = {}
+    for key in json_response:
+        rate = json_response[key]['rate']
+        formatted_json[key] = rate
+    return json.dumps(formatted_json)
 
 
 @app.route('/countries')
