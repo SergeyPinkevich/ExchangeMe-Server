@@ -12,15 +12,16 @@ def rates():
     response = requests.get("http://www.floatrates.com/daily/usd.json")
     json_response = json.loads(response.text)
     rates_list = []
-    rates_list.insert(0, {"code": "USD", "rate": 1.0})
+    rates_list.insert(0, {"currency": "USD", "rate": 1.0})
     i = 1
     for key in json_response:
         rate = json_response[key]['rate']
 
-        formatted_json = {"code": str(key).upper(), "rate": rate}
+        formatted_json = {"currency": str(key).upper(), "rate": rate}
         rates_list.insert(i, formatted_json)
         i += 1
-    return json.dumps(rates_list)
+    response = {"rates": rates_list}
+    return json.dumps(response)
 
 
 @app.route('/countries')
