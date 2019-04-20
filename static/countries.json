@@ -364,7 +364,7 @@
       "region": "Americas",
       "subregion": "South America",
       "flag": "https://restcountries.eu/data/bol.svg",
-      "name": "Bolivia (Plurinational State of)",
+      "name": "Bolivia",
       "alpha2Code": "BO",
       "currencies": [
         {
@@ -378,7 +378,7 @@
       "region": "Americas",
       "subregion": "Caribbean",
       "flag": "https://restcountries.eu/data/bes.svg",
-      "name": "Bonaire, Sint Eustatius and Saba",
+      "name": "Bonaire",
       "alpha2Code": "BQ",
       "currencies": [
         {
@@ -417,20 +417,6 @@
       ]
     },
     {
-      "region": "",
-      "subregion": "",
-      "flag": "https://restcountries.eu/data/bvt.svg",
-      "name": "Bouvet Island",
-      "alpha2Code": "BV",
-      "currencies": [
-        {
-          "code": "NOK",
-          "name": "Norwegian krone",
-          "symbol": "kr"
-        }
-      ]
-    },
-    {
       "region": "Americas",
       "subregion": "South America",
       "flag": "https://restcountries.eu/data/bra.svg",
@@ -460,42 +446,9 @@
     },
     {
       "region": "Americas",
-      "subregion": "Northern America",
-      "flag": "https://restcountries.eu/data/umi.svg",
-      "name": "United States Minor Outlying Islands",
-      "alpha2Code": "UM",
-      "currencies": [
-        {
-          "code": "USD",
-          "name": "United States Dollar",
-          "symbol": "$"
-        }
-      ]
-    },
-    {
-      "region": "Americas",
-      "subregion": "Caribbean",
-      "flag": "https://restcountries.eu/data/vgb.svg",
-      "name": "Virgin Islands (British)",
-      "alpha2Code": "VG",
-      "currencies": [
-        {
-          "code": null,
-          "name": "[D]",
-          "symbol": "$"
-        },
-        {
-          "code": "USD",
-          "name": "United States dollar",
-          "symbol": "$"
-        }
-      ]
-    },
-    {
-      "region": "Americas",
       "subregion": "Caribbean",
       "flag": "https://restcountries.eu/data/vir.svg",
-      "name": "Virgin Islands (U.S.)",
+      "name": "Virgin Islands",
       "alpha2Code": "VI",
       "currencies": [
         {
@@ -615,20 +568,6 @@
     },
     {
       "region": "Africa",
-      "subregion": "Western Africa",
-      "flag": "https://restcountries.eu/data/cpv.svg",
-      "name": "Cabo Verde",
-      "alpha2Code": "CV",
-      "currencies": [
-        {
-          "code": "CVE",
-          "name": "Cape Verdean escudo",
-          "symbol": "Esc"
-        }
-      ]
-    },
-    {
-      "region": "Africa",
       "subregion": "Middle Africa",
       "flag": "https://restcountries.eu/data/caf.svg",
       "name": "Central African Republic",
@@ -701,7 +640,7 @@
       "region": "Oceania",
       "subregion": "Australia and New Zealand",
       "flag": "https://restcountries.eu/data/cck.svg",
-      "name": "Cocos (Keeling) Islands",
+      "name": "Cocos Islands",
       "alpha2Code": "CC",
       "currencies": [
         {
@@ -742,22 +681,8 @@
     {
       "region": "Africa",
       "subregion": "Middle Africa",
-      "flag": "https://restcountries.eu/data/cog.svg",
-      "name": "Congo",
-      "alpha2Code": "CG",
-      "currencies": [
-        {
-          "code": "XAF",
-          "name": "Central African CFA franc",
-          "symbol": "Fr"
-        }
-      ]
-    },
-    {
-      "region": "Africa",
-      "subregion": "Middle Africa",
       "flag": "https://restcountries.eu/data/cod.svg",
-      "name": "Congo (Democratic Republic of the)",
+      "name": "Congo",
       "alpha2Code": "CD",
       "currencies": [
         {
@@ -832,7 +757,7 @@
       "region": "Americas",
       "subregion": "Caribbean",
       "flag": "https://restcountries.eu/data/cuw.svg",
-      "name": "Curaçao",
+      "name": "Curacao",
       "alpha2Code": "CW",
       "currencies": [
         {
@@ -1081,20 +1006,6 @@
       ]
     },
     {
-      "region": "Americas",
-      "subregion": "South America",
-      "flag": "https://restcountries.eu/data/guf.svg",
-      "name": "French Guiana",
-      "alpha2Code": "GF",
-      "currencies": [
-        {
-          "code": "EUR",
-          "name": "Euro",
-          "symbol": "€"
-        }
-      ]
-    },
-    {
       "region": "Oceania",
       "subregion": "Polynesia",
       "flag": "https://restcountries.eu/data/pyf.svg",
@@ -1105,20 +1016,6 @@
           "code": "XPF",
           "name": "CFP franc",
           "symbol": "Fr"
-        }
-      ]
-    },
-    {
-      "region": "Africa",
-      "subregion": "Southern Africa",
-      "flag": "https://restcountries.eu/data/atf.svg",
-      "name": "French Southern Territories",
-      "alpha2Code": "TF",
-      "currencies": [
-        {
-          "code": "EUR",
-          "name": "Euro",
-          "symbol": "€"
         }
       ]
     },
@@ -1249,20 +1146,6 @@
       ]
     },
     {
-      "region": "Americas",
-      "subregion": "Caribbean",
-      "flag": "https://restcountries.eu/data/glp.svg",
-      "name": "Guadeloupe",
-      "alpha2Code": "GP",
-      "currencies": [
-        {
-          "code": "EUR",
-          "name": "Euro",
-          "symbol": "€"
-        }
-      ]
-    },
-    {
       "region": "Oceania",
       "subregion": "Micronesia",
       "flag": "https://restcountries.eu/data/gum.svg",
@@ -1322,7 +1205,7 @@
       "region": "Africa",
       "subregion": "Western Africa",
       "flag": "https://restcountries.eu/data/gnb.svg",
-      "name": "Guinea-Bissau",
+      "name": "Guinea Bissau",
       "alpha2Code": "GW",
       "currencies": [
         {
@@ -1357,34 +1240,6 @@
           "code": "HTG",
           "name": "Haitian gourde",
           "symbol": "G"
-        }
-      ]
-    },
-    {
-      "region": "",
-      "subregion": "",
-      "flag": "https://restcountries.eu/data/hmd.svg",
-      "name": "Heard Island and McDonald Islands",
-      "alpha2Code": "HM",
-      "currencies": [
-        {
-          "code": "AUD",
-          "name": "Australian dollar",
-          "symbol": "$"
-        }
-      ]
-    },
-    {
-      "region": "Europe",
-      "subregion": "Southern Europe",
-      "flag": "https://restcountries.eu/data/vat.svg",
-      "name": "Holy See",
-      "alpha2Code": "VA",
-      "currencies": [
-        {
-          "code": "EUR",
-          "name": "Euro",
-          "symbol": "€"
         }
       ]
     },
@@ -1473,24 +1328,10 @@
       ]
     },
     {
-      "region": "Africa",
-      "subregion": "Western Africa",
-      "flag": "https://restcountries.eu/data/civ.svg",
-      "name": "Côte d'Ivoire",
-      "alpha2Code": "CI",
-      "currencies": [
-        {
-          "code": "XOF",
-          "name": "West African CFA franc",
-          "symbol": "Fr"
-        }
-      ]
-    },
-    {
       "region": "Asia",
       "subregion": "Southern Asia",
       "flag": "https://restcountries.eu/data/irn.svg",
-      "name": "Iran (Islamic Republic of)",
+      "name": "Iran",
       "alpha2Code": "IR",
       "currencies": [
         {
@@ -1710,7 +1551,7 @@
       "region": "Asia",
       "subregion": "South-Eastern Asia",
       "flag": "https://restcountries.eu/data/lao.svg",
-      "name": "Lao People's Democratic Republic",
+      "name": "Laos",
       "alpha2Code": "LA",
       "currencies": [
         {
@@ -1852,20 +1693,6 @@
       ]
     },
     {
-      "region": "Europe",
-      "subregion": "Southern Europe",
-      "flag": "https://restcountries.eu/data/mkd.svg",
-      "name": "Macedonia (the former Yugoslav Republic of)",
-      "alpha2Code": "MK",
-      "currencies": [
-        {
-          "code": "MKD",
-          "name": "Macedonian denar",
-          "symbol": "ден"
-        }
-      ]
-    },
-    {
       "region": "Africa",
       "subregion": "Eastern Africa",
       "flag": "https://restcountries.eu/data/mdg.svg",
@@ -1992,20 +1819,6 @@
       ]
     },
     {
-      "region": "Africa",
-      "subregion": "Eastern Africa",
-      "flag": "https://restcountries.eu/data/myt.svg",
-      "name": "Mayotte",
-      "alpha2Code": "YT",
-      "currencies": [
-        {
-          "code": "EUR",
-          "name": "Euro",
-          "symbol": "€"
-        }
-      ]
-    },
-    {
       "region": "Americas",
       "subregion": "Central America",
       "flag": "https://restcountries.eu/data/mex.svg",
@@ -2023,7 +1836,7 @@
       "region": "Oceania",
       "subregion": "Micronesia",
       "flag": "https://restcountries.eu/data/fsm.svg",
-      "name": "Micronesia (Federated States of)",
+      "name": "Micronesia",
       "alpha2Code": "FM",
       "currencies": [
         {
@@ -2042,7 +1855,7 @@
       "region": "Europe",
       "subregion": "Eastern Europe",
       "flag": "https://restcountries.eu/data/mda.svg",
-      "name": "Moldova (Republic of)",
+      "name": "Moldova",
       "alpha2Code": "MD",
       "currencies": [
         {
@@ -2213,20 +2026,6 @@
     },
     {
       "region": "Oceania",
-      "subregion": "Melanesia",
-      "flag": "https://restcountries.eu/data/ncl.svg",
-      "name": "New Caledonia",
-      "alpha2Code": "NC",
-      "currencies": [
-        {
-          "code": "XPF",
-          "name": "CFP franc",
-          "symbol": "Fr"
-        }
-      ]
-    },
-    {
-      "region": "Oceania",
       "subregion": "Australia and New Zealand",
       "flag": "https://restcountries.eu/data/nzl.svg",
       "name": "New Zealand",
@@ -2383,7 +2182,7 @@
       "region": "Asia",
       "subregion": "Western Asia",
       "flag": "https://restcountries.eu/data/pse.svg",
-      "name": "Palestine, State of",
+      "name": "Palestine",
       "alpha2Code": "PS",
       "currencies": [
         {
@@ -2547,22 +2346,8 @@
       "region": "Europe",
       "subregion": "Eastern Europe",
       "flag": "https://restcountries.eu/data/kos.svg",
-      "name": "Republic of Kosovo",
+      "name": "Kosovo",
       "alpha2Code": "XK",
-      "currencies": [
-        {
-          "code": "EUR",
-          "name": "Euro",
-          "symbol": "€"
-        }
-      ]
-    },
-    {
-      "region": "Africa",
-      "subregion": "Eastern Africa",
-      "flag": "https://restcountries.eu/data/reu.svg",
-      "name": "Réunion",
-      "alpha2Code": "RE",
       "currencies": [
         {
           "code": "EUR",
@@ -2610,20 +2395,6 @@
           "code": "RWF",
           "name": "Rwandan franc",
           "symbol": "Fr"
-        }
-      ]
-    },
-    {
-      "region": "Americas",
-      "subregion": "Caribbean",
-      "flag": "https://restcountries.eu/data/blm.svg",
-      "name": "Saint Barthélemy",
-      "alpha2Code": "BL",
-      "currencies": [
-        {
-          "code": "EUR",
-          "name": "Euro",
-          "symbol": "€"
         }
       ]
     },
@@ -2916,7 +2687,7 @@
       "region": "Asia",
       "subregion": "Eastern Asia",
       "flag": "https://restcountries.eu/data/kor.svg",
-      "name": "Korea (Republic of)",
+      "name": "Korea",
       "alpha2Code": "KR",
       "currencies": [
         {
@@ -3098,7 +2869,7 @@
       "region": "Africa",
       "subregion": "Eastern Africa",
       "flag": "https://restcountries.eu/data/tza.svg",
-      "name": "Tanzania, United Republic of",
+      "name": "Tanzania",
       "alpha2Code": "TZ",
       "currencies": [
         {
@@ -3119,25 +2890,6 @@
           "code": "THB",
           "name": "Thai baht",
           "symbol": "฿"
-        }
-      ]
-    },
-    {
-      "region": "Asia",
-      "subregion": "South-Eastern Asia",
-      "flag": "https://restcountries.eu/data/tls.svg",
-      "name": "Timor-Leste",
-      "alpha2Code": "TL",
-      "currencies": [
-        {
-          "code": "USD",
-          "name": "United States dollar",
-          "symbol": "$"
-        },
-        {
-          "code": null,
-          "name": null,
-          "symbol": null
         }
       ]
     },
@@ -3395,20 +3147,6 @@
           "code": "VND",
           "name": "Vietnamese đồng",
           "symbol": "₫"
-        }
-      ]
-    },
-    {
-      "region": "Oceania",
-      "subregion": "Polynesia",
-      "flag": "https://restcountries.eu/data/wlf.svg",
-      "name": "Wallis and Futuna",
-      "alpha2Code": "WF",
-      "currencies": [
-        {
-          "code": "XPF",
-          "name": "CFP franc",
-          "symbol": "Fr"
         }
       ]
     },
