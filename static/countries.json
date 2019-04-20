@@ -347,31 +347,12 @@
       ]
     },
     {
-      "region": "Americas",
-      "subregion": "Northern America",
-      "flag": "https://restcountries.eu/data/bmu.svg",
-      "name": "Bermuda",
-      "alpha2Code": "BM",
-      "currencies": [
-        {
-          "code": "BMD",
-          "name": "Bermudian dollar",
-          "symbol": "$"
-        }
-      ]
-    },
-    {
       "region": "Asia",
       "subregion": "Southern Asia",
       "flag": "https://restcountries.eu/data/btn.svg",
       "name": "Bhutan",
       "alpha2Code": "BT",
       "currencies": [
-        {
-          "code": "BTN",
-          "name": "Bhutanese ngultrum",
-          "symbol": "Nu."
-        },
         {
           "code": "INR",
           "name": "Indian rupee",
@@ -647,20 +628,6 @@
       ]
     },
     {
-      "region": "Americas",
-      "subregion": "Caribbean",
-      "flag": "https://restcountries.eu/data/cym.svg",
-      "name": "Cayman Islands",
-      "alpha2Code": "KY",
-      "currencies": [
-        {
-          "code": "KYD",
-          "name": "Cayman Islands dollar",
-          "symbol": "$"
-        }
-      ]
-    },
-    {
       "region": "Africa",
       "subregion": "Middle Africa",
       "flag": "https://restcountries.eu/data/caf.svg",
@@ -854,11 +821,6 @@
       "name": "Cuba",
       "alpha2Code": "CU",
       "currencies": [
-        {
-          "code": "CUC",
-          "name": "Cuban convertible peso",
-          "symbol": "$"
-        },
         {
           "code": "CUP",
           "name": "Cuban peso",
@@ -1063,20 +1025,6 @@
       ]
     },
     {
-      "region": "Americas",
-      "subregion": "South America",
-      "flag": "https://restcountries.eu/data/flk.svg",
-      "name": "Falkland Islands (Malvinas)",
-      "alpha2Code": "FK",
-      "currencies": [
-        {
-          "code": "FKP",
-          "name": "Falkland Islands pound",
-          "symbol": "£"
-        }
-      ]
-    },
-    {
       "region": "Europe",
       "subregion": "Northern Europe",
       "flag": "https://restcountries.eu/data/fro.svg",
@@ -1086,11 +1034,6 @@
         {
           "code": "DKK",
           "name": "Danish krone",
-          "symbol": "kr"
-        },
-        {
-          "code": "(none)",
-          "name": "Faroese króna",
           "symbol": "kr"
         }
       ]
@@ -1357,11 +1300,6 @@
         {
           "code": "GBP",
           "name": "British pound",
-          "symbol": "£"
-        },
-        {
-          "code": "(none)",
-          "name": "Guernsey pound",
           "symbol": "£"
         }
       ]
@@ -1737,11 +1675,6 @@
           "code": "AUD",
           "name": "Australian dollar",
           "symbol": "$"
-        },
-        {
-          "code": "(none)",
-          "name": "Kiribati dollar",
-          "symbol": "$"
         }
       ]
     },
@@ -2046,20 +1979,6 @@
     },
     {
       "region": "Africa",
-      "subregion": "Western Africa",
-      "flag": "https://restcountries.eu/data/mrt.svg",
-      "name": "Mauritania",
-      "alpha2Code": "MR",
-      "currencies": [
-        {
-          "code": "MRO",
-          "name": "Mauritanian ouguiya",
-          "symbol": "UM"
-        }
-      ]
-    },
-    {
-      "region": "Africa",
       "subregion": "Eastern Africa",
       "flag": "https://restcountries.eu/data/mus.svg",
       "name": "Mauritius",
@@ -2261,11 +2180,6 @@
           "code": "AUD",
           "name": "Australian dollar",
           "symbol": "$"
-        },
-        {
-          "code": "(none)",
-          "name": null,
-          "symbol": "$"
         }
       ]
     },
@@ -2378,11 +2292,6 @@
           "code": "NZD",
           "name": "New Zealand dollar",
           "symbol": "$"
-        },
-        {
-          "code": "(none)",
-          "name": "Niue dollar",
-          "symbol": "$"
         }
       ]
     },
@@ -2397,20 +2306,6 @@
           "code": "AUD",
           "name": "Australian dollar",
           "symbol": "$"
-        }
-      ]
-    },
-    {
-      "region": "Asia",
-      "subregion": "Eastern Asia",
-      "flag": "https://restcountries.eu/data/prk.svg",
-      "name": "Korea (Democratic People's Republic of)",
-      "alpha2Code": "KP",
-      "currencies": [
-        {
-          "code": "KPW",
-          "name": "North Korean won",
-          "symbol": "₩"
         }
       ]
     },
@@ -2477,11 +2372,6 @@
       "name": "Palau",
       "alpha2Code": "PW",
       "currencies": [
-        {
-          "code": "(none)",
-          "name": "[E]",
-          "symbol": "$"
-        },
         {
           "code": "USD",
           "name": "United States dollar",
@@ -2738,20 +2628,6 @@
       ]
     },
     {
-      "region": "Africa",
-      "subregion": "Western Africa",
-      "flag": "https://restcountries.eu/data/shn.svg",
-      "name": "Saint Helena, Ascension and Tristan da Cunha",
-      "alpha2Code": "SH",
-      "currencies": [
-        {
-          "code": "SHP",
-          "name": "Saint Helena pound",
-          "symbol": "£"
-        }
-      ]
-    },
-    {
       "region": "Americas",
       "subregion": "Caribbean",
       "flag": "https://restcountries.eu/data/kna.svg",
@@ -2846,20 +2722,6 @@
           "code": "EUR",
           "name": "Euro",
           "symbol": "€"
-        }
-      ]
-    },
-    {
-      "region": "Africa",
-      "subregion": "Middle Africa",
-      "flag": "https://restcountries.eu/data/stp.svg",
-      "name": "Sao Tome and Principe",
-      "alpha2Code": "ST",
-      "currencies": [
-        {
-          "code": "STD",
-          "name": "São Tomé and Príncipe dobra",
-          "symbol": "Db"
         }
       ]
     },
@@ -3046,11 +2908,6 @@
         {
           "code": "GBP",
           "name": "British pound",
-          "symbol": "£"
-        },
-        {
-          "code": "(none)",
-          "name": null,
           "symbol": "£"
         }
       ]
@@ -3528,20 +3385,6 @@
       ]
     },
     {
-      "region": "Americas",
-      "subregion": "South America",
-      "flag": "https://restcountries.eu/data/ven.svg",
-      "name": "Venezuela (Bolivarian Republic of)",
-      "alpha2Code": "VE",
-      "currencies": [
-        {
-          "code": "VEF",
-          "name": "Venezuelan bolívar",
-          "symbol": "Bs F"
-        }
-      ]
-    },
-    {
       "region": "Asia",
       "subregion": "South-Eastern Asia",
       "flag": "https://restcountries.eu/data/vnm.svg",
@@ -3662,11 +3505,6 @@
           "code": "USD",
           "name": "United States dollar",
           "symbol": "$"
-        },
-        {
-          "code": "(none)",
-          "name": null,
-          "symbol": null
         }
       ]
     }
