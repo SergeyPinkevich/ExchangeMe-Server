@@ -12,7 +12,8 @@
           "name": "Afghan afghani",
           "symbol": "؋"
         }
-      ]
+      ],
+      "englishName": "Afghanistan"
     },
     {
       "region": "Europe",
@@ -26,7 +27,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Aland Islands"
     },
     {
       "region": "Europe",
@@ -40,7 +42,8 @@
           "name": "Albanian lek",
           "symbol": "L"
         }
-      ]
+      ],
+      "englishName": "Albania"
     },
     {
       "region": "Africa",
@@ -54,7 +57,8 @@
           "name": "Algerian dinar",
           "symbol": "د.ج"
         }
-      ]
+      ],
+      "englishName": "Algeria"
     },
     {
       "region": "Oceania",
@@ -68,7 +72,8 @@
           "name": "United State Dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "American Samoa"
     },
     {
       "region": "Europe",
@@ -82,7 +87,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Andorra"
     },
     {
       "region": "Africa",
@@ -96,7 +102,8 @@
           "name": "Angolan kwanza",
           "symbol": "Kz"
         }
-      ]
+      ],
+      "englishName": "Angola"
     },
     {
       "region": "Americas",
@@ -110,7 +117,8 @@
           "name": "East Caribbean dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Anguilla"
     },
     {
       "region": "Polar",
@@ -129,7 +137,8 @@
           "name": "British pound",
           "symbol": "£"
         }
-      ]
+      ],
+      "englishName": "Antarctica"
     },
     {
       "region": "Americas",
@@ -143,7 +152,8 @@
           "name": "East Caribbean dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Antigua and Barbuda"
     },
     {
       "region": "Americas",
@@ -157,7 +167,8 @@
           "name": "Argentine peso",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Argentina"
     },
     {
       "region": "Asia",
@@ -171,7 +182,8 @@
           "name": "Armenian dram",
           "symbol": null
         }
-      ]
+      ],
+      "englishName": "Armenia"
     },
     {
       "region": "Americas",
@@ -185,7 +197,8 @@
           "name": "Aruban florin",
           "symbol": "ƒ"
         }
-      ]
+      ],
+      "englishName": "Aruba"
     },
     {
       "region": "Oceania",
@@ -199,7 +212,8 @@
           "name": "Australian dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Australia"
     },
     {
       "region": "Europe",
@@ -213,7 +227,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Austria"
     },
     {
       "region": "Asia",
@@ -227,7 +242,8 @@
           "name": "Azerbaijani manat",
           "symbol": null
         }
-      ]
+      ],
+      "englishName": "Azerbaijan"
     },
     {
       "region": "Americas",
@@ -241,7 +257,8 @@
           "name": "Bahamian dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Bahamas"
     },
     {
       "region": "Asia",
@@ -255,7 +272,8 @@
           "name": "Bahraini dinar",
           "symbol": ".د.ب"
         }
-      ]
+      ],
+      "englishName": "Bahrain"
     },
     {
       "region": "Asia",
@@ -269,7 +287,8 @@
           "name": "Bangladeshi taka",
           "symbol": "৳"
         }
-      ]
+      ],
+      "englishName": "Bangladesh"
     },
     {
       "region": "Americas",
@@ -283,7 +302,8 @@
           "name": "Barbadian dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Barbados"
     },
     {
       "region": "Europe",
@@ -302,7 +322,8 @@
           "name": "Old Belarusian ruble",
           "symbol": "Br"
         }
-      ]
+      ],
+      "englishName": "Belarus"
     },
     {
       "region": "Europe",
@@ -316,7 +337,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Belgium"
     },
     {
       "region": "Americas",
@@ -330,7 +352,8 @@
           "name": "Belize dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Belize"
     },
     {
       "region": "Africa",
@@ -344,7 +367,8 @@
           "name": "West African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Benin"
     },
     {
       "region": "Asia",
@@ -358,7 +382,8 @@
           "name": "Indian rupee",
           "symbol": "₹"
         }
-      ]
+      ],
+      "englishName": "Bhutan"
     },
     {
       "region": "Americas",
@@ -372,7 +397,8 @@
           "name": "Bolivian boliviano",
           "symbol": "Bs."
         }
-      ]
+      ],
+      "englishName": "Bolivia"
     },
     {
       "region": "Americas",
@@ -386,7 +412,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Bonaire"
     },
     {
       "region": "Europe",
@@ -400,7 +427,8 @@
           "name": "Bosnia and Herzegovina convertible mark",
           "symbol": null
         }
-      ]
+      ],
+      "englishName": "Bosnia and Herzegovina"
     },
     {
       "region": "Africa",
@@ -414,7 +442,8 @@
           "name": "Botswana pula",
           "symbol": "P"
         }
-      ]
+      ],
+      "englishName": "Botswana"
     },
     {
       "region": "Americas",
@@ -428,7 +457,8 @@
           "name": "Brazilian real",
           "symbol": "R$"
         }
-      ]
+      ],
+      "englishName": "Brazil"
     },
     {
       "region": "Africa",
@@ -442,7 +472,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "British Indian Ocean Territory"
     },
     {
       "region": "Americas",
@@ -456,7 +487,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Virgin Islands"
     },
     {
       "region": "Asia",
@@ -475,7 +507,8 @@
           "name": "Singapore dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Brunei Darussalam"
     },
     {
       "region": "Europe",
@@ -489,7 +522,8 @@
           "name": "Bulgarian lev",
           "symbol": "лв"
         }
-      ]
+      ],
+      "englishName": "Bulgaria"
     },
     {
       "region": "Africa",
@@ -503,7 +537,8 @@
           "name": "West African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Burkina Faso"
     },
     {
       "region": "Africa",
@@ -517,7 +552,8 @@
           "name": "Burundian franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Burundi"
     },
     {
       "region": "Asia",
@@ -536,7 +572,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Cambodia"
     },
     {
       "region": "Africa",
@@ -550,7 +587,8 @@
           "name": "Central African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Cameroon"
     },
     {
       "region": "Americas",
@@ -564,7 +602,8 @@
           "name": "Canadian dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Canada"
     },
     {
       "region": "Africa",
@@ -578,7 +617,8 @@
           "name": "Central African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Central African Republic"
     },
     {
       "region": "Africa",
@@ -592,7 +632,8 @@
           "name": "Central African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Chad"
     },
     {
       "region": "Americas",
@@ -606,7 +647,8 @@
           "name": "Chilean peso",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Chile"
     },
     {
       "region": "Asia",
@@ -620,7 +662,8 @@
           "name": "Chinese yuan",
           "symbol": "¥"
         }
-      ]
+      ],
+      "englishName": "China"
     },
     {
       "region": "Oceania",
@@ -634,7 +677,8 @@
           "name": "Australian dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Christmas Island"
     },
     {
       "region": "Oceania",
@@ -648,7 +692,8 @@
           "name": "Australian dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Cocos Islands"
     },
     {
       "region": "Americas",
@@ -662,7 +707,8 @@
           "name": "Colombian peso",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Colombia"
     },
     {
       "region": "Africa",
@@ -676,7 +722,8 @@
           "name": "Comorian franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Comoros"
     },
     {
       "region": "Africa",
@@ -690,7 +737,8 @@
           "name": "Congolese franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Congo"
     },
     {
       "region": "Oceania",
@@ -709,7 +757,8 @@
           "name": "Cook Islands dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Cook Islands"
     },
     {
       "region": "Americas",
@@ -723,7 +772,8 @@
           "name": "Costa Rican colón",
           "symbol": "₡"
         }
-      ]
+      ],
+      "englishName": "Costa Rica"
     },
     {
       "region": "Europe",
@@ -737,7 +787,8 @@
           "name": "Croatian kuna",
           "symbol": "kn"
         }
-      ]
+      ],
+      "englishName": "Croatia"
     },
     {
       "region": "Americas",
@@ -751,7 +802,8 @@
           "name": "Cuban peso",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Cuba"
     },
     {
       "region": "Americas",
@@ -765,7 +817,8 @@
           "name": "Netherlands Antillean guilder",
           "symbol": "ƒ"
         }
-      ]
+      ],
+      "englishName": "Curacao"
     },
     {
       "region": "Europe",
@@ -779,7 +832,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Cyprus"
     },
     {
       "region": "Europe",
@@ -793,7 +847,8 @@
           "name": "Czech koruna",
           "symbol": "Kč"
         }
-      ]
+      ],
+      "englishName": "Czech Republic"
     },
     {
       "region": "Europe",
@@ -807,7 +862,8 @@
           "name": "Danish krone",
           "symbol": "kr"
         }
-      ]
+      ],
+      "englishName": "Denmark"
     },
     {
       "region": "Africa",
@@ -821,7 +877,8 @@
           "name": "Djiboutian franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Djibouti"
     },
     {
       "region": "Americas",
@@ -835,7 +892,8 @@
           "name": "East Caribbean dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Dominica"
     },
     {
       "region": "Americas",
@@ -849,7 +907,8 @@
           "name": "Dominican peso",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Dominican Republic"
     },
     {
       "region": "Americas",
@@ -863,7 +922,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Ecuador"
     },
     {
       "region": "Africa",
@@ -877,7 +937,8 @@
           "name": "Egyptian pound",
           "symbol": "£"
         }
-      ]
+      ],
+      "englishName": "Egypt"
     },
     {
       "region": "Americas",
@@ -891,7 +952,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "El Salvador"
     },
     {
       "region": "Africa",
@@ -905,7 +967,8 @@
           "name": "Central African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Equatorial Guinea"
     },
     {
       "region": "Africa",
@@ -919,7 +982,8 @@
           "name": "Eritrean nakfa",
           "symbol": "Nfk"
         }
-      ]
+      ],
+      "englishName": "Eritrea"
     },
     {
       "region": "Europe",
@@ -933,7 +997,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Estonia"
     },
     {
       "region": "Africa",
@@ -947,7 +1012,8 @@
           "name": "Ethiopian birr",
           "symbol": "Br"
         }
-      ]
+      ],
+      "englishName": "Ethiopia"
     },
     {
       "region": "Europe",
@@ -961,7 +1027,8 @@
           "name": "Danish krone",
           "symbol": "kr"
         }
-      ]
+      ],
+      "englishName": "Faroe Islands"
     },
     {
       "region": "Oceania",
@@ -975,7 +1042,8 @@
           "name": "Fijian dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Fiji"
     },
     {
       "region": "Europe",
@@ -989,7 +1057,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Finland"
     },
     {
       "region": "Europe",
@@ -1003,7 +1072,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "France"
     },
     {
       "region": "Oceania",
@@ -1017,7 +1087,8 @@
           "name": "CFP franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "French Polynesia"
     },
     {
       "region": "Africa",
@@ -1031,7 +1102,8 @@
           "name": "Central African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Gabon"
     },
     {
       "region": "Africa",
@@ -1045,7 +1117,8 @@
           "name": "Gambian dalasi",
           "symbol": "D"
         }
-      ]
+      ],
+      "englishName": "Gambia"
     },
     {
       "region": "Asia",
@@ -1059,7 +1132,8 @@
           "name": "Georgian Lari",
           "symbol": "ლ"
         }
-      ]
+      ],
+      "englishName": "Georgia"
     },
     {
       "region": "Europe",
@@ -1073,7 +1147,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Germany"
     },
     {
       "region": "Africa",
@@ -1087,7 +1162,8 @@
           "name": "Ghanaian cedi",
           "symbol": "₵"
         }
-      ]
+      ],
+      "englishName": "Ghana"
     },
     {
       "region": "Europe",
@@ -1101,7 +1177,8 @@
           "name": "Gibraltar pound",
           "symbol": "£"
         }
-      ]
+      ],
+      "englishName": "Gibraltar"
     },
     {
       "region": "Europe",
@@ -1115,7 +1192,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Greece"
     },
     {
       "region": "Americas",
@@ -1129,7 +1207,8 @@
           "name": "Danish krone",
           "symbol": "kr"
         }
-      ]
+      ],
+      "englishName": "Greenland"
     },
     {
       "region": "Americas",
@@ -1143,7 +1222,8 @@
           "name": "East Caribbean dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Grenada"
     },
     {
       "region": "Oceania",
@@ -1157,7 +1237,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Guam"
     },
     {
       "region": "Americas",
@@ -1171,7 +1252,8 @@
           "name": "Guatemalan quetzal",
           "symbol": "Q"
         }
-      ]
+      ],
+      "englishName": "Guatemala"
     },
     {
       "region": "Europe",
@@ -1185,7 +1267,8 @@
           "name": "British pound",
           "symbol": "£"
         }
-      ]
+      ],
+      "englishName": "Guernsey"
     },
     {
       "region": "Africa",
@@ -1199,7 +1282,8 @@
           "name": "Guinean franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Guinea"
     },
     {
       "region": "Africa",
@@ -1213,7 +1297,8 @@
           "name": "West African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Guinea Bissau"
     },
     {
       "region": "Americas",
@@ -1227,7 +1312,8 @@
           "name": "Guyanese dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Guyana"
     },
     {
       "region": "Americas",
@@ -1241,7 +1327,8 @@
           "name": "Haitian gourde",
           "symbol": "G"
         }
-      ]
+      ],
+      "englishName": "Haiti"
     },
     {
       "region": "Americas",
@@ -1255,7 +1342,8 @@
           "name": "Honduran lempira",
           "symbol": "L"
         }
-      ]
+      ],
+      "englishName": "Honduras"
     },
     {
       "region": "Asia",
@@ -1269,7 +1357,8 @@
           "name": "Hong Kong dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Hong Kong"
     },
     {
       "region": "Europe",
@@ -1283,7 +1372,8 @@
           "name": "Hungarian forint",
           "symbol": "Ft"
         }
-      ]
+      ],
+      "englishName": "Hungary"
     },
     {
       "region": "Europe",
@@ -1297,7 +1387,8 @@
           "name": "Icelandic króna",
           "symbol": "kr"
         }
-      ]
+      ],
+      "englishName": "Iceland"
     },
     {
       "region": "Asia",
@@ -1311,7 +1402,8 @@
           "name": "Indian rupee",
           "symbol": "₹"
         }
-      ]
+      ],
+      "englishName": "India"
     },
     {
       "region": "Asia",
@@ -1325,7 +1417,8 @@
           "name": "Indonesian rupiah",
           "symbol": "Rp"
         }
-      ]
+      ],
+      "englishName": "Indonesia"
     },
     {
       "region": "Asia",
@@ -1339,7 +1432,8 @@
           "name": "Iranian rial",
           "symbol": "﷼"
         }
-      ]
+      ],
+      "englishName": "Iran"
     },
     {
       "region": "Asia",
@@ -1353,7 +1447,8 @@
           "name": "Iraqi dinar",
           "symbol": "ع.د"
         }
-      ]
+      ],
+      "englishName": "Iraq"
     },
     {
       "region": "Europe",
@@ -1367,7 +1462,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Ireland"
     },
     {
       "region": "Europe",
@@ -1386,7 +1482,8 @@
           "name": "Manx pound",
           "symbol": "£"
         }
-      ]
+      ],
+      "englishName": "Isle of Man"
     },
     {
       "region": "Asia",
@@ -1400,7 +1497,8 @@
           "name": "Israeli new shekel",
           "symbol": "₪"
         }
-      ]
+      ],
+      "englishName": "Israel"
     },
     {
       "region": "Europe",
@@ -1414,7 +1512,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Italy"
     },
     {
       "region": "Americas",
@@ -1428,7 +1527,8 @@
           "name": "Jamaican dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Jamaica"
     },
     {
       "region": "Asia",
@@ -1442,7 +1542,8 @@
           "name": "Japanese yen",
           "symbol": "¥"
         }
-      ]
+      ],
+      "englishName": "Japan"
     },
     {
       "region": "Europe",
@@ -1461,7 +1562,8 @@
           "name": "Jersey pound",
           "symbol": "£"
         }
-      ]
+      ],
+      "englishName": "Jersey"
     },
     {
       "region": "Asia",
@@ -1475,7 +1577,8 @@
           "name": "Jordanian dinar",
           "symbol": "د.ا"
         }
-      ]
+      ],
+      "englishName": "Jordan"
     },
     {
       "region": "Asia",
@@ -1489,7 +1592,8 @@
           "name": "Kazakhstani tenge",
           "symbol": null
         }
-      ]
+      ],
+      "englishName": "Kazakhstan"
     },
     {
       "region": "Africa",
@@ -1503,7 +1607,8 @@
           "name": "Kenyan shilling",
           "symbol": "Sh"
         }
-      ]
+      ],
+      "englishName": "Kenya"
     },
     {
       "region": "Oceania",
@@ -1517,7 +1622,8 @@
           "name": "Australian dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Kiribati"
     },
     {
       "region": "Asia",
@@ -1531,7 +1637,8 @@
           "name": "Kuwaiti dinar",
           "symbol": "د.ك"
         }
-      ]
+      ],
+      "englishName": "Kuwait"
     },
     {
       "region": "Asia",
@@ -1545,7 +1652,8 @@
           "name": "Kyrgyzstani som",
           "symbol": "с"
         }
-      ]
+      ],
+      "englishName": "Kyrgyzstan"
     },
     {
       "region": "Asia",
@@ -1559,7 +1667,8 @@
           "name": "Lao kip",
           "symbol": "₭"
         }
-      ]
+      ],
+      "englishName": "Laos"
     },
     {
       "region": "Europe",
@@ -1573,7 +1682,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Latvia"
     },
     {
       "region": "Asia",
@@ -1587,7 +1697,8 @@
           "name": "Lebanese pound",
           "symbol": "ل.ل"
         }
-      ]
+      ],
+      "englishName": "Lebanon"
     },
     {
       "region": "Africa",
@@ -1606,7 +1717,8 @@
           "name": "South African rand",
           "symbol": "R"
         }
-      ]
+      ],
+      "englishName": "Lesotho"
     },
     {
       "region": "Africa",
@@ -1620,7 +1732,8 @@
           "name": "Liberian dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Liberia"
     },
     {
       "region": "Africa",
@@ -1634,7 +1747,8 @@
           "name": "Libyan dinar",
           "symbol": "ل.د"
         }
-      ]
+      ],
+      "englishName": "Libya"
     },
     {
       "region": "Europe",
@@ -1648,7 +1762,8 @@
           "name": "Swiss franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Liechtenstein"
     },
     {
       "region": "Europe",
@@ -1662,7 +1777,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Lithuania"
     },
     {
       "region": "Europe",
@@ -1676,7 +1792,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Luxembourg"
     },
     {
       "region": "Asia",
@@ -1690,7 +1807,8 @@
           "name": "Macanese pataca",
           "symbol": "P"
         }
-      ]
+      ],
+      "englishName": "Macao"
     },
     {
       "region": "Africa",
@@ -1704,7 +1822,8 @@
           "name": "Malagasy ariary",
           "symbol": "Ar"
         }
-      ]
+      ],
+      "englishName": "Madagascar"
     },
     {
       "region": "Africa",
@@ -1718,7 +1837,8 @@
           "name": "Malawian kwacha",
           "symbol": "MK"
         }
-      ]
+      ],
+      "englishName": "Malawi"
     },
     {
       "region": "Asia",
@@ -1732,7 +1852,8 @@
           "name": "Malaysian ringgit",
           "symbol": "RM"
         }
-      ]
+      ],
+      "englishName": "Malaysia"
     },
     {
       "region": "Asia",
@@ -1746,7 +1867,8 @@
           "name": "Maldivian rufiyaa",
           "symbol": ".ރ"
         }
-      ]
+      ],
+      "englishName": "Maldives"
     },
     {
       "region": "Africa",
@@ -1760,7 +1882,8 @@
           "name": "West African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Mali"
     },
     {
       "region": "Europe",
@@ -1774,7 +1897,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Malta"
     },
     {
       "region": "Oceania",
@@ -1788,7 +1912,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Marshall Islands"
     },
     {
       "region": "Americas",
@@ -1802,7 +1927,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Martinique"
     },
     {
       "region": "Africa",
@@ -1816,7 +1942,8 @@
           "name": "Mauritian rupee",
           "symbol": "₨"
         }
-      ]
+      ],
+      "englishName": "Mauritius"
     },
     {
       "region": "Americas",
@@ -1830,7 +1957,8 @@
           "name": "Mexican peso",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Mexico"
     },
     {
       "region": "Oceania",
@@ -1840,16 +1968,12 @@
       "alpha2Code": "FM",
       "currencies": [
         {
-          "code": null,
-          "name": "[D]",
-          "symbol": "$"
-        },
-        {
           "code": "USD",
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Micronesia"
     },
     {
       "region": "Europe",
@@ -1863,7 +1987,8 @@
           "name": "Moldovan leu",
           "symbol": "L"
         }
-      ]
+      ],
+      "englishName": "Moldova"
     },
     {
       "region": "Europe",
@@ -1877,7 +2002,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Monaco"
     },
     {
       "region": "Asia",
@@ -1891,7 +2017,8 @@
           "name": "Mongolian tögrög",
           "symbol": "₮"
         }
-      ]
+      ],
+      "englishName": "Mongolia"
     },
     {
       "region": "Europe",
@@ -1905,7 +2032,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Montenegro"
     },
     {
       "region": "Americas",
@@ -1919,7 +2047,8 @@
           "name": "East Caribbean dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Montserrat"
     },
     {
       "region": "Africa",
@@ -1933,7 +2062,8 @@
           "name": "Moroccan dirham",
           "symbol": "د.م."
         }
-      ]
+      ],
+      "englishName": "Morocco"
     },
     {
       "region": "Africa",
@@ -1947,7 +2077,8 @@
           "name": "Mozambican metical",
           "symbol": "MT"
         }
-      ]
+      ],
+      "englishName": "Mozambique"
     },
     {
       "region": "Asia",
@@ -1961,7 +2092,8 @@
           "name": "Burmese kyat",
           "symbol": "Ks"
         }
-      ]
+      ],
+      "englishName": "Myanmar"
     },
     {
       "region": "Africa",
@@ -1980,7 +2112,8 @@
           "name": "South African rand",
           "symbol": "R"
         }
-      ]
+      ],
+      "englishName": "Namibia"
     },
     {
       "region": "Oceania",
@@ -1994,7 +2127,8 @@
           "name": "Australian dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Nauru"
     },
     {
       "region": "Asia",
@@ -2008,7 +2142,8 @@
           "name": "Nepalese rupee",
           "symbol": "₨"
         }
-      ]
+      ],
+      "englishName": "Nepal"
     },
     {
       "region": "Europe",
@@ -2022,7 +2157,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Netherlands"
     },
     {
       "region": "Oceania",
@@ -2036,7 +2172,8 @@
           "name": "New Zealand dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "New Zealand"
     },
     {
       "region": "Americas",
@@ -2050,7 +2187,8 @@
           "name": "Nicaraguan córdoba",
           "symbol": "C$"
         }
-      ]
+      ],
+      "englishName": "Nicaragua"
     },
     {
       "region": "Africa",
@@ -2064,7 +2202,8 @@
           "name": "West African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Niger"
     },
     {
       "region": "Africa",
@@ -2078,7 +2217,8 @@
           "name": "Nigerian naira",
           "symbol": "₦"
         }
-      ]
+      ],
+      "englishName": "Nigeria"
     },
     {
       "region": "Oceania",
@@ -2092,7 +2232,8 @@
           "name": "New Zealand dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Niue"
     },
     {
       "region": "Oceania",
@@ -2106,7 +2247,8 @@
           "name": "Australian dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Norfolk Island"
     },
     {
       "region": "Oceania",
@@ -2120,7 +2262,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Northern Mariana Islands"
     },
     {
       "region": "Europe",
@@ -2134,7 +2277,8 @@
           "name": "Norwegian krone",
           "symbol": "kr"
         }
-      ]
+      ],
+      "englishName": "Norway"
     },
     {
       "region": "Asia",
@@ -2148,7 +2292,8 @@
           "name": "Omani rial",
           "symbol": "ر.ع."
         }
-      ]
+      ],
+      "englishName": "Oman"
     },
     {
       "region": "Asia",
@@ -2162,7 +2307,8 @@
           "name": "Pakistani rupee",
           "symbol": "₨"
         }
-      ]
+      ],
+      "englishName": "Pakistan"
     },
     {
       "region": "Oceania",
@@ -2176,7 +2322,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Palau"
     },
     {
       "region": "Asia",
@@ -2190,7 +2337,8 @@
           "name": "Israeli new sheqel",
           "symbol": "₪"
         }
-      ]
+      ],
+      "englishName": "Palestine"
     },
     {
       "region": "Americas",
@@ -2209,7 +2357,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Panama"
     },
     {
       "region": "Oceania",
@@ -2223,7 +2372,8 @@
           "name": "Papua New Guinean kina",
           "symbol": "K"
         }
-      ]
+      ],
+      "englishName": "Papua New Guinea"
     },
     {
       "region": "Americas",
@@ -2237,7 +2387,8 @@
           "name": "Paraguayan guaraní",
           "symbol": "₲"
         }
-      ]
+      ],
+      "englishName": "Paraguay"
     },
     {
       "region": "Americas",
@@ -2251,7 +2402,8 @@
           "name": "Peruvian sol",
           "symbol": "S/."
         }
-      ]
+      ],
+      "englishName": "Peru"
     },
     {
       "region": "Asia",
@@ -2265,7 +2417,8 @@
           "name": "Philippine peso",
           "symbol": "₱"
         }
-      ]
+      ],
+      "englishName": "Philippines"
     },
     {
       "region": "Oceania",
@@ -2278,13 +2431,9 @@
           "code": "NZD",
           "name": "New Zealand dollar",
           "symbol": "$"
-        },
-        {
-          "code": null,
-          "name": "Pitcairn Islands dollar",
-          "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Pitcairn"
     },
     {
       "region": "Europe",
@@ -2298,7 +2447,8 @@
           "name": "Polish złoty",
           "symbol": "zł"
         }
-      ]
+      ],
+      "englishName": "Poland"
     },
     {
       "region": "Europe",
@@ -2312,7 +2462,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Portugal"
     },
     {
       "region": "Americas",
@@ -2326,7 +2477,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Puerto Rico"
     },
     {
       "region": "Asia",
@@ -2340,7 +2492,8 @@
           "name": "Qatari riyal",
           "symbol": "ر.ق"
         }
-      ]
+      ],
+      "englishName": "Qatar"
     },
     {
       "region": "Europe",
@@ -2354,7 +2507,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Kosovo"
     },
     {
       "region": "Europe",
@@ -2368,7 +2522,8 @@
           "name": "Romanian leu",
           "symbol": "lei"
         }
-      ]
+      ],
+      "englishName": "Romania"
     },
     {
       "region": "Europe",
@@ -2382,7 +2537,8 @@
           "name": "Russian ruble",
           "symbol": "₽"
         }
-      ]
+      ],
+      "englishName": "Russian Federation"
     },
     {
       "region": "Africa",
@@ -2396,7 +2552,8 @@
           "name": "Rwandan franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Rwanda"
     },
     {
       "region": "Americas",
@@ -2410,7 +2567,8 @@
           "name": "East Caribbean dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Saint Kitts and Nevis"
     },
     {
       "region": "Americas",
@@ -2424,7 +2582,8 @@
           "name": "East Caribbean dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Saint Lucia"
     },
     {
       "region": "Americas",
@@ -2438,7 +2597,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Saint Martin (French part)"
     },
     {
       "region": "Americas",
@@ -2452,7 +2612,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Saint Pierre and Miquelon"
     },
     {
       "region": "Americas",
@@ -2466,7 +2627,8 @@
           "name": "East Caribbean dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Saint Vincent and the Grenadines"
     },
     {
       "region": "Oceania",
@@ -2480,7 +2642,8 @@
           "name": "Samoan tālā",
           "symbol": "T"
         }
-      ]
+      ],
+      "englishName": "Samoa"
     },
     {
       "region": "Europe",
@@ -2494,7 +2657,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "San Marino"
     },
     {
       "region": "Asia",
@@ -2508,7 +2672,8 @@
           "name": "Saudi riyal",
           "symbol": "ر.س"
         }
-      ]
+      ],
+      "englishName": "Saudi Arabia"
     },
     {
       "region": "Africa",
@@ -2522,7 +2687,8 @@
           "name": "West African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Senegal"
     },
     {
       "region": "Europe",
@@ -2536,7 +2702,8 @@
           "name": "Serbian dinar",
           "symbol": "дин."
         }
-      ]
+      ],
+      "englishName": "Serbia"
     },
     {
       "region": "Africa",
@@ -2550,7 +2717,8 @@
           "name": "Seychellois rupee",
           "symbol": "₨"
         }
-      ]
+      ],
+      "englishName": "Seychelles"
     },
     {
       "region": "Africa",
@@ -2564,7 +2732,8 @@
           "name": "Sierra Leonean leone",
           "symbol": "Le"
         }
-      ]
+      ],
+      "englishName": "Sierra Leone"
     },
     {
       "region": "Asia",
@@ -2583,7 +2752,8 @@
           "name": "Singapore dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Singapore"
     },
     {
       "region": "Americas",
@@ -2597,7 +2767,8 @@
           "name": "Netherlands Antillean guilder",
           "symbol": "ƒ"
         }
-      ]
+      ],
+      "englishName": "Sint Maarten (Dutch part)"
     },
     {
       "region": "Europe",
@@ -2611,7 +2782,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Slovakia"
     },
     {
       "region": "Europe",
@@ -2625,7 +2797,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Slovenia"
     },
     {
       "region": "Oceania",
@@ -2639,7 +2812,8 @@
           "name": "Solomon Islands dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Solomon Islands"
     },
     {
       "region": "Africa",
@@ -2653,7 +2827,8 @@
           "name": "Somali shilling",
           "symbol": "Sh"
         }
-      ]
+      ],
+      "englishName": "Somalia"
     },
     {
       "region": "Africa",
@@ -2667,7 +2842,8 @@
           "name": "South African rand",
           "symbol": "R"
         }
-      ]
+      ],
+      "englishName": "South Africa"
     },
     {
       "region": "Americas",
@@ -2681,7 +2857,8 @@
           "name": "British pound",
           "symbol": "£"
         }
-      ]
+      ],
+      "englishName": "South Georgia and the South Sandwich Islands"
     },
     {
       "region": "Asia",
@@ -2695,7 +2872,8 @@
           "name": "South Korean won",
           "symbol": "₩"
         }
-      ]
+      ],
+      "englishName": "Korea"
     },
     {
       "region": "Africa",
@@ -2709,7 +2887,8 @@
           "name": "South Sudanese pound",
           "symbol": "£"
         }
-      ]
+      ],
+      "englishName": "South Sudan"
     },
     {
       "region": "Europe",
@@ -2723,7 +2902,8 @@
           "name": "Euro",
           "symbol": "€"
         }
-      ]
+      ],
+      "englishName": "Spain"
     },
     {
       "region": "Asia",
@@ -2737,7 +2917,8 @@
           "name": "Sri Lankan rupee",
           "symbol": "Rs"
         }
-      ]
+      ],
+      "englishName": "Sri Lanka"
     },
     {
       "region": "Africa",
@@ -2751,7 +2932,8 @@
           "name": "Sudanese pound",
           "symbol": "ج.س."
         }
-      ]
+      ],
+      "englishName": "Sudan"
     },
     {
       "region": "Americas",
@@ -2765,7 +2947,8 @@
           "name": "Surinamese dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Suriname"
     },
     {
       "region": "Europe",
@@ -2779,7 +2962,8 @@
           "name": "Norwegian krone",
           "symbol": "kr"
         }
-      ]
+      ],
+      "englishName": "Svalbard and Jan Mayen"
     },
     {
       "region": "Africa",
@@ -2793,7 +2977,8 @@
           "name": "Swazi lilangeni",
           "symbol": "L"
         }
-      ]
+      ],
+      "englishName": "Swaziland"
     },
     {
       "region": "Europe",
@@ -2807,7 +2992,8 @@
           "name": "Swedish krona",
           "symbol": "kr"
         }
-      ]
+      ],
+      "englishName": "Sweden"
     },
     {
       "region": "Europe",
@@ -2821,7 +3007,8 @@
           "name": "Swiss franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Switzerland"
     },
     {
       "region": "Asia",
@@ -2835,7 +3022,8 @@
           "name": "Syrian pound",
           "symbol": "£"
         }
-      ]
+      ],
+      "englishName": "Syrian Arab Republic"
     },
     {
       "region": "Asia",
@@ -2849,7 +3037,8 @@
           "name": "New Taiwan dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Taiwan"
     },
     {
       "region": "Asia",
@@ -2863,7 +3052,8 @@
           "name": "Tajikistani somoni",
           "symbol": "ЅМ"
         }
-      ]
+      ],
+      "englishName": "Tajikistan"
     },
     {
       "region": "Africa",
@@ -2877,7 +3067,8 @@
           "name": "Tanzanian shilling",
           "symbol": "Sh"
         }
-      ]
+      ],
+      "englishName": "Tanzania"
     },
     {
       "region": "Asia",
@@ -2891,7 +3082,8 @@
           "name": "Thai baht",
           "symbol": "฿"
         }
-      ]
+      ],
+      "englishName": "Thailand"
     },
     {
       "region": "Africa",
@@ -2905,7 +3097,8 @@
           "name": "West African CFA franc",
           "symbol": "Fr"
         }
-      ]
+      ],
+      "englishName": "Togo"
     },
     {
       "region": "Oceania",
@@ -2919,7 +3112,8 @@
           "name": "New Zealand dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Tokelau"
     },
     {
       "region": "Oceania",
@@ -2933,7 +3127,8 @@
           "name": "Tongan paʻanga",
           "symbol": "T$"
         }
-      ]
+      ],
+      "englishName": "Tonga"
     },
     {
       "region": "Americas",
@@ -2947,7 +3142,8 @@
           "name": "Trinidad and Tobago dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Trinidad and Tobago"
     },
     {
       "region": "Africa",
@@ -2961,7 +3157,8 @@
           "name": "Tunisian dinar",
           "symbol": "د.ت"
         }
-      ]
+      ],
+      "englishName": "Tunisia"
     },
     {
       "region": "Asia",
@@ -2975,7 +3172,8 @@
           "name": "Turkish lira",
           "symbol": null
         }
-      ]
+      ],
+      "englishName": "Turkey"
     },
     {
       "region": "Asia",
@@ -2989,7 +3187,8 @@
           "name": "Turkmenistan manat",
           "symbol": "m"
         }
-      ]
+      ],
+      "englishName": "Turkmenistan"
     },
     {
       "region": "Americas",
@@ -3003,7 +3202,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Turks and Caicos Islands"
     },
     {
       "region": "Oceania",
@@ -3022,7 +3222,8 @@
           "name": "Tuvaluan dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Tuvalu"
     },
     {
       "region": "Africa",
@@ -3036,7 +3237,8 @@
           "name": "Ugandan shilling",
           "symbol": "Sh"
         }
-      ]
+      ],
+      "englishName": "Uganda"
     },
     {
       "region": "Europe",
@@ -3050,7 +3252,8 @@
           "name": "Ukrainian hryvnia",
           "symbol": "₴"
         }
-      ]
+      ],
+      "englishName": "Ukraine"
     },
     {
       "region": "Asia",
@@ -3064,7 +3267,8 @@
           "name": "United Arab Emirates dirham",
           "symbol": "د.إ"
         }
-      ]
+      ],
+      "englishName": "United Arab Emirates"
     },
     {
       "region": "Europe",
@@ -3078,7 +3282,8 @@
           "name": "British pound",
           "symbol": "£"
         }
-      ]
+      ],
+      "englishName": "United Kingdom of Great Britain and Northern Ireland"
     },
     {
       "region": "Americas",
@@ -3092,7 +3297,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "United States of America"
     },
     {
       "region": "Americas",
@@ -3106,7 +3312,8 @@
           "name": "Uruguayan peso",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Uruguay"
     },
     {
       "region": "Asia",
@@ -3120,7 +3327,8 @@
           "name": "Uzbekistani so'm",
           "symbol": null
         }
-      ]
+      ],
+      "englishName": "Uzbekistan"
     },
     {
       "region": "Oceania",
@@ -3134,7 +3342,8 @@
           "name": "Vanuatu vatu",
           "symbol": "Vt"
         }
-      ]
+      ],
+      "englishName": "Vanuatu"
     },
     {
       "region": "Asia",
@@ -3148,7 +3357,8 @@
           "name": "Vietnamese đồng",
           "symbol": "₫"
         }
-      ]
+      ],
+      "englishName": "Viet Nam"
     },
     {
       "region": "Africa",
@@ -3167,7 +3377,8 @@
           "name": "Algerian dinar",
           "symbol": "د.ج"
         }
-      ]
+      ],
+      "englishName": "Western Sahara"
     },
     {
       "region": "Asia",
@@ -3181,7 +3392,8 @@
           "name": "Yemeni rial",
           "symbol": "﷼"
         }
-      ]
+      ],
+      "englishName": "Yemen"
     },
     {
       "region": "Africa",
@@ -3195,7 +3407,8 @@
           "name": "Zambian kwacha",
           "symbol": "ZK"
         }
-      ]
+      ],
+      "englishName": "Zambia"
     },
     {
       "region": "Africa",
@@ -3244,7 +3457,8 @@
           "name": "United States dollar",
           "symbol": "$"
         }
-      ]
+      ],
+      "englishName": "Zimbabwe"
     }
   ]
 }
