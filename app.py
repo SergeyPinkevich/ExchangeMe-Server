@@ -27,9 +27,10 @@ def rates():
 
 @app.route('/countries')
 def countries():
-    languages = request.headers["Accept-Language"]
-    if languages is None:
-        languages = "en-EN;"
+    if "Accept-Language" in request.headers:
+        languages = request.headers["Accept-Language"]
+    else:
+        languages = "en-EN"
     if "RU" in languages:
         file_name = 'static/countries-ru.json'
     else:
