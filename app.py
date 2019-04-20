@@ -31,7 +31,7 @@ def countries():
         languages = request.headers["Accept-Language"]
     else:
         languages = "en-EN"
-    if "RU" in languages:
+    if "ru" in languages:
         file_name = 'static/countries-ru.json'
     else:
         file_name = 'static/countries-en.json'
