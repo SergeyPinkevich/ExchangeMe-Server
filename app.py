@@ -3,6 +3,7 @@ import json
 import requests
 from flask import Flask
 from flask import jsonify
+from flask import request
 
 app = Flask(__name__)
 
@@ -26,7 +27,12 @@ def rates():
 
 @app.route('/countries')
 def countries():
-    with open('static/countries.json') as data:
+    languages = request.headers["Accept-Language"]
+    if "RU" in languages:
+        file_name = 'static/countries-ru.json'
+    else:
+        file_name = 'static/countries-en.json'
+    with open(file_name) as data:
         return jsonify(json.load(data))
 
 

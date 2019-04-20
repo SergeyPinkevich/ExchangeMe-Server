@@ -1,0 +1,18 @@
+{
+  "countries": [
+    {
+      "region": "Европа",
+      "subregion": "Восточная Европа",
+      "flag": "https://restcountries.eu/data/rus.svg",
+      "name": "Российская Федерация",
+      "alpha2Code": "RU",
+      "currencies": [
+        {
+          "code": "RUB",
+          "name": "Русский рубль",
+          "symbol": "₽"
+        }
+      ]
+    }
+  ]
+}
