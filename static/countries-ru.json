@@ -2189,12 +2189,12 @@
       "region": "Океания",
       "subregion": "Полинезия",
       "flag": "https://restcountries.eu/data/niu.svg",
-      "name": "Niue",
+      "name": "Ниуэ",
       "alpha2Code": "NU",
       "currencies": [
         {
           "code": "NZD",
-          "name": "New Zealand dollar",
+          "name": "Новозеландский доллар",
           "symbol": "$"
         }
       ],
@@ -2204,7 +2204,7 @@
       "region": "Океания",
       "subregion": "Australia and New Zealand",
       "flag": "https://restcountries.eu/data/nfk.svg",
-      "name": "Norfolk Island",
+      "name": "Остров Норфолк",
       "alpha2Code": "NF",
       "currencies": [
         {
@@ -2217,9 +2217,9 @@
     },
     {
       "region": "Океания",
-      "subregion": "Micronesia",
+      "subregion": "Микронезия",
       "flag": "https://restcountries.eu/data/mnp.svg",
-      "name": "Северная Mariana Islands",
+      "name": "Северные Марианские Острова",
       "alpha2Code": "MP",
       "currencies": [
         {
@@ -2234,12 +2234,12 @@
       "region": "Европа",
       "subregion": "Северная Европа",
       "flag": "https://restcountries.eu/data/nor.svg",
-      "name": "Norway",
+      "name": "Норвегия",
       "alpha2Code": "NO",
       "currencies": [
         {
           "code": "NOK",
-          "name": "Norwegian krone",
+          "name": "Норвежская крона",
           "symbol": "kr"
         }
       ],
@@ -2249,12 +2249,12 @@
       "region": "Азия",
       "subregion": "Западная Азия",
       "flag": "https://restcountries.eu/data/omn.svg",
-      "name": "Oman",
+      "name": "Оман",
       "alpha2Code": "OM",
       "currencies": [
         {
           "code": "OMR",
-          "name": "Omani rial",
+          "name": "Оманский риал",
           "symbol": "ر.ع."
         }
       ],
@@ -2264,12 +2264,12 @@
       "region": "Азия",
       "subregion": "Южная Азия",
       "flag": "https://restcountries.eu/data/pak.svg",
-      "name": "Pakistan",
+      "name": "Пакистан",
       "alpha2Code": "PK",
       "currencies": [
         {
           "code": "PKR",
-          "name": "Pakistani rupee",
+          "name": "Пакистанская рупия",
           "symbol": "₨"
         }
       ],
@@ -2279,7 +2279,7 @@
       "region": "Океания",
       "subregion": "Micronesia",
       "flag": "https://restcountries.eu/data/plw.svg",
-      "name": "Palau",
+      "name": "Палау",
       "alpha2Code": "PW",
       "currencies": [
         {
@@ -2294,12 +2294,12 @@
       "region": "Азия",
       "subregion": "Западная Азия",
       "flag": "https://restcountries.eu/data/pse.svg",
-      "name": "Palestine",
+      "name": "Палестина",
       "alpha2Code": "PS",
       "currencies": [
         {
           "code": "ILS",
-          "name": "Israeli new sheqel",
+          "name": "Новый израильский шекель",
           "symbol": "₪"
         }
       ],
@@ -2309,12 +2309,12 @@
       "region": "Америка",
       "subregion": "Central America",
       "flag": "https://restcountries.eu/data/pan.svg",
-      "name": "Panama",
+      "name": "Панама",
       "alpha2Code": "PA",
       "currencies": [
         {
           "code": "PAB",
-          "name": "Panamanian balboa",
+          "name": "Панамский бальбоа",
           "symbol": "B/."
         },
         {
@@ -2329,12 +2329,12 @@
       "region": "Океания",
       "subregion": "Melanesia",
       "flag": "https://restcountries.eu/data/png.svg",
-      "name": "Papua New Guinea",
+      "name": "Папуа-Новая Гвинея",
       "alpha2Code": "PG",
       "currencies": [
         {
           "code": "PGK",
-          "name": "Papua New Guinean kina",
+          "name": "кина Папуа – Новой Гвинеи",
           "symbol": "K"
         }
       ],
@@ -2344,12 +2344,12 @@
       "region": "Америка",
       "subregion": "Южная America",
       "flag": "https://restcountries.eu/data/pry.svg",
-      "name": "Paraguay",
+      "name": "Парагвай",
       "alpha2Code": "PY",
       "currencies": [
         {
           "code": "PYG",
-          "name": "Paraguayan guaraní",
+          "name": "Парагвайский гуарани",
           "symbol": "₲"
         }
       ],
@@ -2359,12 +2359,12 @@
       "region": "Америка",
       "subregion": "Южная America",
       "flag": "https://restcountries.eu/data/per.svg",
-      "name": "Peru",
+      "name": "Перу",
       "alpha2Code": "PE",
       "currencies": [
         {
           "code": "PEN",
-          "name": "Peruvian sol",
+          "name": "Перуанский новый соль",
           "symbol": "S/."
         }
       ],
@@ -2374,12 +2374,12 @@
       "region": "Азия",
       "subregion": "Южная-Восточная Азия",
       "flag": "https://restcountries.eu/data/phl.svg",
-      "name": "Philippines",
+      "name": "Филиппины",
       "alpha2Code": "PH",
       "currencies": [
         {
           "code": "PHP",
-          "name": "Philippine peso",
+          "name": "Филиппинское песо",
           "symbol": "₱"
         }
       ],
@@ -2389,12 +2389,12 @@
       "region": "Океания",
       "subregion": "Полинезия",
       "flag": "https://restcountries.eu/data/pcn.svg",
-      "name": "Pitcairn",
+      "name": "Острова Питкэрн",
       "alpha2Code": "PN",
       "currencies": [
         {
           "code": "NZD",
-          "name": "New Zealand dollar",
+          "name": "Новозеландский доллар",
           "symbol": "$"
         }
       ],
@@ -2404,12 +2404,12 @@
       "region": "Европа",
       "subregion": "Восточная Европа",
       "flag": "https://restcountries.eu/data/pol.svg",
-      "name": "Poland",
+      "name": "Польша",
       "alpha2Code": "PL",
       "currencies": [
         {
           "code": "PLN",
-          "name": "Polish złoty",
+          "name": "Польский злотый",
           "symbol": "zł"
         }
       ],
@@ -2419,7 +2419,7 @@
       "region": "Европа",
       "subregion": "Южная Европа",
       "flag": "https://restcountries.eu/data/prt.svg",
-      "name": "Portugal",
+      "name": "Португалия",
       "alpha2Code": "PT",
       "currencies": [
         {
@@ -2434,7 +2434,7 @@
       "region": "Америка",
       "subregion": "Карибы",
       "flag": "https://restcountries.eu/data/pri.svg",
-      "name": "Puerto Rico",
+      "name": "Пуэрто-Рико",
       "alpha2Code": "PR",
       "currencies": [
         {
@@ -2449,12 +2449,12 @@
       "region": "Азия",
       "subregion": "Западная Азия",
       "flag": "https://restcountries.eu/data/qat.svg",
-      "name": "Qatar",
+      "name": "Катар",
       "alpha2Code": "QA",
       "currencies": [
         {
           "code": "QAR",
-          "name": "Qatari riyal",
+          "name": "Катарский риал",
           "symbol": "ر.ق"
         }
       ],
@@ -2464,7 +2464,7 @@
       "region": "Европа",
       "subregion": "Восточная Европа",
       "flag": "https://restcountries.eu/data/kos.svg",
-      "name": "Kosovo",
+      "name": "Косово",
       "alpha2Code": "XK",
       "currencies": [
         {
@@ -2479,12 +2479,12 @@
       "region": "Европа",
       "subregion": "Восточная Европа",
       "flag": "https://restcountries.eu/data/rou.svg",
-      "name": "Romania",
+      "name": "Румыния",
       "alpha2Code": "RO",
       "currencies": [
         {
           "code": "RON",
-          "name": "Romanian leu",
+          "name": "Румынский лей",
           "symbol": "lei"
         }
       ],
@@ -2494,12 +2494,12 @@
       "region": "Европа",
       "subregion": "Восточная Европа",
       "flag": "https://restcountries.eu/data/rus.svg",
-      "name": "Russian Federation",
+      "name": "Российская Федерация",
       "alpha2Code": "RU",
       "currencies": [
         {
           "code": "RUB",
-          "name": "Russian ruble",
+          "name": "Российский рубль",
           "symbol": "₽"
         }
       ],
@@ -2509,12 +2509,12 @@
       "region": "Африка",
       "subregion": "Восточная Африка",
       "flag": "https://restcountries.eu/data/rwa.svg",
-      "name": "Rwanda",
+      "name": "Руанда",
       "alpha2Code": "RW",
       "currencies": [
         {
           "code": "RWF",
-          "name": "Rwandan franc",
+          "name": "Франк Руанды",
           "symbol": "Fr"
         }
       ],
@@ -2524,7 +2524,7 @@
       "region": "Америка",
       "subregion": "Карибы",
       "flag": "https://restcountries.eu/data/kna.svg",
-      "name": "Saint Kitts and Nevis",
+      "name": "Сент-Китс и Невис",
       "alpha2Code": "KN",
       "currencies": [
         {
@@ -2539,7 +2539,7 @@
       "region": "Америка",
       "subregion": "Карибы",
       "flag": "https://restcountries.eu/data/lca.svg",
-      "name": "Saint Lucia",
+      "name": "Сент-Люсия",
       "alpha2Code": "LC",
       "currencies": [
         {
@@ -2554,7 +2554,7 @@
       "region": "Америка",
       "subregion": "Карибы",
       "flag": "https://restcountries.eu/data/maf.svg",
-      "name": "Saint Martin (French part)",
+      "name": "Сен-Мартен",
       "alpha2Code": "MF",
       "currencies": [
         {
@@ -2569,7 +2569,7 @@
       "region": "Америка",
       "subregion": "Северная America",
       "flag": "https://restcountries.eu/data/spm.svg",
-      "name": "Saint Pierre and Miquelon",
+      "name": "Сен-Пьер и Микелон",
       "alpha2Code": "PM",
       "currencies": [
         {
@@ -2584,7 +2584,7 @@
       "region": "Америка",
       "subregion": "Карибы",
       "flag": "https://restcountries.eu/data/vct.svg",
-      "name": "Saint Vincent and the Grenadines",
+      "name": "Сент-Винсент и Гренадины",
       "alpha2Code": "VC",
       "currencies": [
         {
@@ -2599,12 +2599,12 @@
       "region": "Океания",
       "subregion": "Полинезия",
       "flag": "https://restcountries.eu/data/wsm.svg",
-      "name": "Samoa",
+      "name": "Самоа",
       "alpha2Code": "WS",
       "currencies": [
         {
           "code": "WST",
-          "name": "Samoan tālā",
+          "name": "Самоанская тала",
           "symbol": "T"
         }
       ],
@@ -2614,7 +2614,7 @@
       "region": "Европа",
       "subregion": "Южная Европа",
       "flag": "https://restcountries.eu/data/smr.svg",
-      "name": "San Marino",
+      "name": "Сан-Марино",
       "alpha2Code": "SM",
       "currencies": [
         {
@@ -2629,12 +2629,12 @@
       "region": "Азия",
       "subregion": "Западная Азия",
       "flag": "https://restcountries.eu/data/sau.svg",
-      "name": "Saudi Arabia",
+      "name": "Саудовская Аравия",
       "alpha2Code": "SA",
       "currencies": [
         {
           "code": "SAR",
-          "name": "Saudi riyal",
+          "name": "Саудовский риял",
           "symbol": "ر.س"
         }
       ],
@@ -2644,7 +2644,7 @@
       "region": "Африка",
       "subregion": "Западная Африка",
       "flag": "https://restcountries.eu/data/sen.svg",
-      "name": "Senegal",
+      "name": "Сенегал",
       "alpha2Code": "SN",
       "currencies": [
         {
@@ -2659,12 +2659,12 @@
       "region": "Европа",
       "subregion": "Южная Европа",
       "flag": "https://restcountries.eu/data/srb.svg",
-      "name": "Serbia",
+      "name": "Сербия",
       "alpha2Code": "RS",
       "currencies": [
         {
           "code": "RSD",
-          "name": "Serbian dinar",
+          "name": "Сербский динар",
           "symbol": "дин."
         }
       ],
@@ -2674,12 +2674,12 @@
       "region": "Африка",
       "subregion": "Восточная Африка",
       "flag": "https://restcountries.eu/data/syc.svg",
-      "name": "Seychelles",
+      "name": "Сейшелы",
       "alpha2Code": "SC",
       "currencies": [
         {
           "code": "SCR",
-          "name": "Seychellois rupee",
+          "name": "Сейшельская рупия",
           "symbol": "₨"
         }
       ],
@@ -2689,12 +2689,12 @@
       "region": "Африка",
       "subregion": "Западная Африка",
       "flag": "https://restcountries.eu/data/sle.svg",
-      "name": "Sierra Leone",
+      "name": "Сьерра-Леоне",
       "alpha2Code": "SL",
       "currencies": [
         {
           "code": "SLL",
-          "name": "Sierra Leonean leone",
+          "name": "Сьерра-леонский леоне",
           "symbol": "Le"
         }
       ],
@@ -2704,17 +2704,12 @@
       "region": "Азия",
       "subregion": "Южная-Восточная Азия",
       "flag": "https://restcountries.eu/data/sgp.svg",
-      "name": "Singapore",
+      "name": "Сингапур",
       "alpha2Code": "SG",
       "currencies": [
         {
-          "code": "BND",
-          "name": "Brunei dollar",
-          "symbol": "$"
-        },
-        {
           "code": "SGD",
-          "name": "Singapore dollar",
+          "name": "Сингапурский доллар",
           "symbol": "$"
         }
       ],
@@ -2724,12 +2719,12 @@
       "region": "Америка",
       "subregion": "Карибы",
       "flag": "https://restcountries.eu/data/sxm.svg",
-      "name": "Sint Maarten (Dutch part)",
+      "name": "Синт-Мартен",
       "alpha2Code": "SX",
       "currencies": [
         {
           "code": "ANG",
-          "name": "Netherlands Antillean guilder",
+          "name": "Нидерландский антильский гульден",
           "symbol": "ƒ"
         }
       ],
@@ -2739,7 +2734,7 @@
       "region": "Европа",
       "subregion": "Восточная Европа",
       "flag": "https://restcountries.eu/data/svk.svg",
-      "name": "Slovakia",
+      "name": "Словакия",
       "alpha2Code": "SK",
       "currencies": [
         {
@@ -2754,7 +2749,7 @@
       "region": "Европа",
       "subregion": "Южная Европа",
       "flag": "https://restcountries.eu/data/svn.svg",
-      "name": "Slovenia",
+      "name": "Словения",
       "alpha2Code": "SI",
       "currencies": [
         {
@@ -2769,12 +2764,12 @@
       "region": "Океания",
       "subregion": "Melanesia",
       "flag": "https://restcountries.eu/data/slb.svg",
-      "name": "Solomon Islands",
+      "name": "Соломоновы Острова",
       "alpha2Code": "SB",
       "currencies": [
         {
           "code": "SBD",
-          "name": "Solomon Islands dollar",
+          "name": "Доллар Соломоновых Островов",
           "symbol": "$"
         }
       ],
@@ -2784,12 +2779,12 @@
       "region": "Африка",
       "subregion": "Восточная Африка",
       "flag": "https://restcountries.eu/data/som.svg",
-      "name": "Somalia",
+      "name": "Сомали",
       "alpha2Code": "SO",
       "currencies": [
         {
           "code": "SOS",
-          "name": "Somali shilling",
+          "name": "Сомалийский шиллинг",
           "symbol": "Sh"
         }
       ],
@@ -2799,12 +2794,12 @@
       "region": "Африка",
       "subregion": "Южная Африка",
       "flag": "https://restcountries.eu/data/zaf.svg",
-      "name": "Южная Африка",
+      "name": "Южно-Африканская Республика",
       "alpha2Code": "ZA",
       "currencies": [
         {
           "code": "ZAR",
-          "name": "Южная Африкаn rand",
+          "name": "Южноафриканский рэнд",
           "symbol": "R"
         }
       ],
@@ -2814,12 +2809,12 @@
       "region": "Америка",
       "subregion": "Южная America",
       "flag": "https://restcountries.eu/data/sgs.svg",
-      "name": "Южная Georgia and the Южная Sandwich Islands",
+      "name": "Южная Георгия и Южные Сандвичевы Острова",
       "alpha2Code": "GS",
       "currencies": [
         {
           "code": "GBP",
-          "name": "British pound",
+          "name": "Фунт стерлингов",
           "symbol": "£"
         }
       ],
@@ -2829,12 +2824,12 @@
       "region": "Азия",
       "subregion": "Восточная Азия",
       "flag": "https://restcountries.eu/data/kor.svg",
-      "name": "Korea",
+      "name": "Корея",
       "alpha2Code": "KR",
       "currencies": [
         {
           "code": "KRW",
-          "name": "Южная Korean won",
+          "name": "Южнокорейская вона",
           "symbol": "₩"
         }
       ],
@@ -2844,12 +2839,12 @@
       "region": "Африка",
       "subregion": "Средняя Африка",
       "flag": "https://restcountries.eu/data/ssd.svg",
-      "name": "Южная Sudan",
+      "name": "Южный Судан",
       "alpha2Code": "SS",
       "currencies": [
         {
           "code": "SSP",
-          "name": "Южная Sudanese pound",
+          "name": "Южносуданский фунт",
           "symbol": "£"
         }
       ],
@@ -2859,7 +2854,7 @@
       "region": "Европа",
       "subregion": "Южная Европа",
       "flag": "https://restcountries.eu/data/esp.svg",
-      "name": "Spain",
+      "name": "Испания",
       "alpha2Code": "ES",
       "currencies": [
         {
@@ -2874,12 +2869,12 @@
       "region": "Азия",
       "subregion": "Южная Азия",
       "flag": "https://restcountries.eu/data/lka.svg",
-      "name": "Sri Lanka",
+      "name": "Шри-Ланка",
       "alpha2Code": "LK",
       "currencies": [
         {
           "code": "LKR",
-          "name": "Sri Lankan rupee",
+          "name": "Шри-ланкийская рупия",
           "symbol": "Rs"
         }
       ],
@@ -2889,12 +2884,12 @@
       "region": "Африка",
       "subregion": "Северная Африка",
       "flag": "https://restcountries.eu/data/sdn.svg",
-      "name": "Sudan",
+      "name": "Судан",
       "alpha2Code": "SD",
       "currencies": [
         {
           "code": "SDG",
-          "name": "Sudanese pound",
+          "name": "Суданский фунт",
           "symbol": "ج.س."
         }
       ],
@@ -2904,12 +2899,12 @@
       "region": "Америка",
       "subregion": "Южная America",
       "flag": "https://restcountries.eu/data/sur.svg",
-      "name": "Suriname",
+      "name": "Суринам",
       "alpha2Code": "SR",
       "currencies": [
         {
           "code": "SRD",
-          "name": "Surinamese dollar",
+          "name": "Суринамский доллар",
           "symbol": "$"
         }
       ],
@@ -2919,12 +2914,12 @@
       "region": "Европа",
       "subregion": "Северная Европа",
       "flag": "https://restcountries.eu/data/sjm.svg",
-      "name": "Svalbard and Jan Mayen",
+      "name": "Шпицберген",
       "alpha2Code": "SJ",
       "currencies": [
         {
           "code": "NOK",
-          "name": "Norwegian krone",
+          "name": "Норвежская крона",
           "symbol": "kr"
         }
       ],
@@ -2934,12 +2929,12 @@
       "region": "Африка",
       "subregion": "Южная Африка",
       "flag": "https://restcountries.eu/data/swz.svg",
-      "name": "Swaziland",
+      "name": "Свазиленд",
       "alpha2Code": "SZ",
       "currencies": [
         {
           "code": "SZL",
-          "name": "Swazi lilangeni",
+          "name": "Свазилендский лилангени",
           "symbol": "L"
         }
       ],
@@ -2949,12 +2944,12 @@
       "region": "Европа",
       "subregion": "Северная Европа",
       "flag": "https://restcountries.eu/data/swe.svg",
-      "name": "Sweden",
+      "name": "Швеция",
       "alpha2Code": "SE",
       "currencies": [
         {
           "code": "SEK",
-          "name": "Swedish krona",
+          "name": "Шведская крона",
           "symbol": "kr"
         }
       ],
@@ -2964,12 +2959,12 @@
       "region": "Европа",
       "subregion": "Западная Европа",
       "flag": "https://restcountries.eu/data/che.svg",
-      "name": "Switzerland",
+      "name": "Швейцария",
       "alpha2Code": "CH",
       "currencies": [
         {
           "code": "CHF",
-          "name": "Swiss franc",
+          "name": "Швейцарский франк",
           "symbol": "Fr"
         }
       ],
@@ -2979,12 +2974,12 @@
       "region": "Азия",
       "subregion": "Западная Азия",
       "flag": "https://restcountries.eu/data/syr.svg",
-      "name": "Syrian Arab Republic",
+      "name": "Сирия",
       "alpha2Code": "SY",
       "currencies": [
         {
           "code": "SYP",
-          "name": "Syrian pound",
+          "name": "Сирийский фунт",
           "symbol": "£"
         }
       ],
@@ -2994,12 +2989,12 @@
       "region": "Азия",
       "subregion": "Восточная Азия",
       "flag": "https://restcountries.eu/data/twn.svg",
-      "name": "Taiwan",
+      "name": "Тайвань",
       "alpha2Code": "TW",
       "currencies": [
         {
           "code": "TWD",
-          "name": "New Taiwan dollar",
+          "name": "Новый тайваньский доллар",
           "symbol": "$"
         }
       ],
@@ -3009,12 +3004,12 @@
       "region": "Азия",
       "subregion": "Central Азия",
       "flag": "https://restcountries.eu/data/tjk.svg",
-      "name": "Tajikistan",
+      "name": "Таджикистан",
       "alpha2Code": "TJ",
       "currencies": [
         {
           "code": "TJS",
-          "name": "Tajikistani somoni",
+          "name": "Таджикский сомони",
           "symbol": "ЅМ"
         }
       ],
@@ -3024,12 +3019,12 @@
       "region": "Африка",
       "subregion": "Восточная Африка",
       "flag": "https://restcountries.eu/data/tza.svg",
-      "name": "Tanzania",
+      "name": "Танзания",
       "alpha2Code": "TZ",
       "currencies": [
         {
           "code": "TZS",
-          "name": "Tanzanian shilling",
+          "name": "Танзанийский шиллинг",
           "symbol": "Sh"
         }
       ],
@@ -3039,12 +3034,12 @@
       "region": "Азия",
       "subregion": "Южная-Восточная Азия",
       "flag": "https://restcountries.eu/data/tha.svg",
-      "name": "Thailand",
+      "name": "Таиланд",
       "alpha2Code": "TH",
       "currencies": [
         {
           "code": "THB",
-          "name": "Thai baht",
+          "name": "Тайский бат",
           "symbol": "฿"
         }
       ],
@@ -3054,7 +3049,7 @@
       "region": "Африка",
       "subregion": "Западная Африка",
       "flag": "https://restcountries.eu/data/tgo.svg",
-      "name": "Togo",
+      "name": "Того",
       "alpha2Code": "TG",
       "currencies": [
         {
@@ -3069,12 +3064,12 @@
       "region": "Океания",
       "subregion": "Полинезия",
       "flag": "https://restcountries.eu/data/tkl.svg",
-      "name": "Tokelau",
+      "name": "Токелау",
       "alpha2Code": "TK",
       "currencies": [
         {
           "code": "NZD",
-          "name": "New Zealand dollar",
+          "name": "Новозеландский доллар",
           "symbol": "$"
         }
       ],
@@ -3084,12 +3079,12 @@
       "region": "Океания",
       "subregion": "Полинезия",
       "flag": "https://restcountries.eu/data/ton.svg",
-      "name": "Tonga",
+      "name": "Тонга",
       "alpha2Code": "TO",
       "currencies": [
         {
           "code": "TOP",
-          "name": "Tongan paʻanga",
+          "name": "Тонганская паанга",
           "symbol": "T$"
         }
       ],
@@ -3099,12 +3094,12 @@
       "region": "Америка",
       "subregion": "Карибы",
       "flag": "https://restcountries.eu/data/tto.svg",
-      "name": "Trinidad and Tobago",
+      "name": "Тринидад и Тобаго",
       "alpha2Code": "TT",
       "currencies": [
         {
           "code": "TTD",
-          "name": "Trinidad and Tobago dollar",
+          "name": "Доллар Тринидада и Тобаго",
           "symbol": "$"
         }
       ],
@@ -3114,12 +3109,12 @@
       "region": "Африка",
       "subregion": "Северная Африка",
       "flag": "https://restcountries.eu/data/tun.svg",
-      "name": "Tunisia",
+      "name": "Тунис",
       "alpha2Code": "TN",
       "currencies": [
         {
           "code": "TND",
-          "name": "Tunisian dinar",
+          "name": "Тунисский динар",
           "symbol": "د.ت"
         }
       ],
@@ -3129,12 +3124,12 @@
       "region": "Азия",
       "subregion": "Западная Азия",
       "flag": "https://restcountries.eu/data/tur.svg",
-      "name": "Turkey",
+      "name": "Турция",
       "alpha2Code": "TR",
       "currencies": [
         {
           "code": "TRY",
-          "name": "Turkish lira",
+          "name": "Турецкая лира",
           "symbol": null
         }
       ],
@@ -3144,12 +3139,12 @@
       "region": "Азия",
       "subregion": "Central Азия",
       "flag": "https://restcountries.eu/data/tkm.svg",
-      "name": "Turkmenistan",
+      "name": "Туркменистан",
       "alpha2Code": "TM",
       "currencies": [
         {
           "code": "TMT",
-          "name": "Turkmenistan manat",
+          "name": "Туркменский манат",
           "symbol": "m"
         }
       ],
@@ -3159,7 +3154,7 @@
       "region": "Америка",
       "subregion": "Карибы",
       "flag": "https://restcountries.eu/data/tca.svg",
-      "name": "Turks and Caicos Islands",
+      "name": "Острова Теркс и Кайкос",
       "alpha2Code": "TC",
       "currencies": [
         {
@@ -3174,17 +3169,12 @@
       "region": "Океания",
       "subregion": "Полинезия",
       "flag": "https://restcountries.eu/data/tuv.svg",
-      "name": "Tuvalu",
+      "name": "Тувалу",
       "alpha2Code": "TV",
       "currencies": [
         {
           "code": "AUD",
           "name": "Австралийский доллар",
-          "symbol": "$"
-        },
-        {
-          "code": "TVD[G]",
-          "name": "Tuvaluan dollar",
           "symbol": "$"
         }
       ],
@@ -3194,12 +3184,12 @@
       "region": "Африка",
       "subregion": "Восточная Африка",
       "flag": "https://restcountries.eu/data/uga.svg",
-      "name": "Uganda",
+      "name": "Уганда",
       "alpha2Code": "UG",
       "currencies": [
         {
           "code": "UGX",
-          "name": "Ugandan shilling",
+          "name": "Угандийский шиллинг",
           "symbol": "Sh"
         }
       ],
@@ -3209,12 +3199,12 @@
       "region": "Европа",
       "subregion": "Восточная Европа",
       "flag": "https://restcountries.eu/data/ukr.svg",
-      "name": "Ukraine",
+      "name": "Украина",
       "alpha2Code": "UA",
       "currencies": [
         {
           "code": "UAH",
-          "name": "Ukrainian hryvnia",
+          "name": "Украинская гривна",
           "symbol": "₴"
         }
       ],
@@ -3224,12 +3214,12 @@
       "region": "Азия",
       "subregion": "Западная Азия",
       "flag": "https://restcountries.eu/data/are.svg",
-      "name": "United Arab Emirates",
+      "name": "Объединенные Арабские Эмираты",
       "alpha2Code": "AE",
       "currencies": [
         {
           "code": "AED",
-          "name": "United Arab Emirates dirham",
+          "name": "Дирхам ОАЭ",
           "symbol": "د.إ"
         }
       ],
@@ -3239,12 +3229,12 @@
       "region": "Европа",
       "subregion": "Северная Европа",
       "flag": "https://restcountries.eu/data/gbr.svg",
-      "name": "United Kingdom of Great Britain and Северная Ireland",
+      "name": "Великобритания",
       "alpha2Code": "GB",
       "currencies": [
         {
           "code": "GBP",
-          "name": "British pound",
+          "name": "Фунт стерлингов",
           "symbol": "£"
         }
       ],
@@ -3254,7 +3244,7 @@
       "region": "Америка",
       "subregion": "Северная America",
       "flag": "https://restcountries.eu/data/usa.svg",
-      "name": "United States of America",
+      "name": "Соединенные Штаты Америки",
       "alpha2Code": "US",
       "currencies": [
         {
@@ -3269,12 +3259,12 @@
       "region": "Америка",
       "subregion": "Южная America",
       "flag": "https://restcountries.eu/data/ury.svg",
-      "name": "Uruguay",
+      "name": "Уругвай",
       "alpha2Code": "UY",
       "currencies": [
         {
           "code": "UYU",
-          "name": "Uruguayan peso",
+          "name": "Уругвайское песо",
           "symbol": "$"
         }
       ],
@@ -3284,12 +3274,12 @@
       "region": "Азия",
       "subregion": "Central Азия",
       "flag": "https://restcountries.eu/data/uzb.svg",
-      "name": "Uzbekistan",
+      "name": "Узбекистан",
       "alpha2Code": "UZ",
       "currencies": [
         {
           "code": "UZS",
-          "name": "Uzbekistani so'm",
+          "name": "Узбекский сум",
           "symbol": null
         }
       ],
@@ -3299,12 +3289,12 @@
       "region": "Океания",
       "subregion": "Melanesia",
       "flag": "https://restcountries.eu/data/vut.svg",
-      "name": "Vanuatu",
+      "name": "Вануату",
       "alpha2Code": "VU",
       "currencies": [
         {
           "code": "VUV",
-          "name": "Vanuatu vatu",
+          "name": "Вануатский вату",
           "symbol": "Vt"
         }
       ],
@@ -3314,47 +3304,27 @@
       "region": "Азия",
       "subregion": "Южная-Восточная Азия",
       "flag": "https://restcountries.eu/data/vnm.svg",
-      "name": "Viet Nam",
+      "name": "Вьетнам",
       "alpha2Code": "VN",
       "currencies": [
         {
           "code": "VND",
-          "name": "Vietnamese đồng",
+          "name": "Вьетнамский донг",
           "symbol": "₫"
         }
       ],
       "englishName": "Viet Nam"
     },
     {
-      "region": "Африка",
-      "subregion": "Северная Африка",
-      "flag": "https://restcountries.eu/data/esh.svg",
-      "name": "Западная Sahara",
-      "alpha2Code": "EH",
-      "currencies": [
-        {
-          "code": "MAD",
-          "name": "Moroccan dirham",
-          "symbol": "د.م."
-        },
-        {
-          "code": "DZD",
-          "name": "Algerian dinar",
-          "symbol": "د.ج"
-        }
-      ],
-      "englishName": "Западная Sahara"
-    },
-    {
       "region": "Азия",
       "subregion": "Западная Азия",
       "flag": "https://restcountries.eu/data/yem.svg",
-      "name": "Yemen",
+      "name": "Йемен",
       "alpha2Code": "YE",
       "currencies": [
         {
           "code": "YER",
-          "name": "Yemeni rial",
+          "name": "Йеменский риал",
           "symbol": "﷼"
         }
       ],
@@ -3364,12 +3334,12 @@
       "region": "Африка",
       "subregion": "Восточная Африка",
       "flag": "https://restcountries.eu/data/zmb.svg",
-      "name": "Zambia",
+      "name": "Замбия",
       "alpha2Code": "ZM",
       "currencies": [
         {
           "code": "ZMW",
-          "name": "Zambian kwacha",
+          "name": "Замбийская квача",
           "symbol": "ZK"
         }
       ],
@@ -3379,22 +3349,22 @@
       "region": "Африка",
       "subregion": "Восточная Африка",
       "flag": "https://restcountries.eu/data/zwe.svg",
-      "name": "Zimbabwe",
+      "name": "Зимбабве",
       "alpha2Code": "ZW",
       "currencies": [
         {
           "code": "BWP",
-          "name": "Botswana pula",
+          "name": "Ботсванская пула",
           "symbol": "P"
         },
         {
           "code": "GBP",
-          "name": "British pound",
+          "name": "Фунт стерлингов",
           "symbol": "£"
         },
         {
           "code": "CNY",
-          "name": "Chinese yuan",
+          "name": "Китайский юань",
           "symbol": "¥"
         },
         {
@@ -3404,17 +3374,17 @@
         },
         {
           "code": "INR",
-          "name": "Indian rupee",
+          "name": "Индийская рупия",
           "symbol": "₹"
         },
         {
           "code": "JPY",
-          "name": "Japanese yen",
+          "name": "Японская йена",
           "symbol": "¥"
         },
         {
           "code": "ZAR",
-          "name": "Южная Африкаn rand",
+          "name": "Южноафриканский рэнд",
           "symbol": "Rs"
         },
         {
