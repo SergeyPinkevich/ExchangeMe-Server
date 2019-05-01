@@ -1,6 +1,81 @@
 {
   "countries": [
     {
+      "region": "Americas",
+      "subregion": "Northern America",
+      "flag": "https://restcountries.eu/data/usa.svg",
+      "name": "United States of America",
+      "alpha2Code": "US",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      ],
+      "englishName": "United States of America"
+    },
+    {
+      "region": "Europe",
+      "subregion": "Europe",
+      "flag": "",
+      "name": "European Union",
+      "alpha2Code": "",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Евро",
+          "symbol": "€"
+        }
+      ],
+      "englishName": "European Union"
+    },
+    {
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "flag": "https://restcountries.eu/data/gbr.svg",
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "alpha2Code": "GB",
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£"
+        }
+      ],
+      "englishName": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    {
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "flag": "https://restcountries.eu/data/chn.svg",
+      "name": "China",
+      "alpha2Code": "CN",
+      "currencies": [
+        {
+          "code": "CNY",
+          "name": "Chinese yuan",
+          "symbol": "¥"
+        }
+      ],
+      "englishName": "China"
+    },
+    {
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "flag": "https://restcountries.eu/data/jpn.svg",
+      "name": "Japan",
+      "alpha2Code": "JP",
+      "currencies": [
+        {
+          "code": "JPY",
+          "name": "Japanese yen",
+          "symbol": "¥"
+        }
+      ],
+      "englishName": "Japan"
+    },
+    {
       "region": "Asia",
       "subregion": "Southern Asia",
       "flag": "https://restcountries.eu/data/afg.svg",
@@ -476,21 +551,6 @@
       "englishName": "British Indian Ocean Territory"
     },
     {
-      "region": "Americas",
-      "subregion": "Caribbean",
-      "flag": "https://restcountries.eu/data/vir.svg",
-      "name": "Virgin Islands",
-      "alpha2Code": "VI",
-      "currencies": [
-        {
-          "code": "USD",
-          "name": "United States dollar",
-          "symbol": "$"
-        }
-      ],
-      "englishName": "Virgin Islands"
-    },
-    {
       "region": "Asia",
       "subregion": "South-Eastern Asia",
       "flag": "https://restcountries.eu/data/brn.svg",
@@ -649,21 +709,6 @@
         }
       ],
       "englishName": "Chile"
-    },
-    {
-      "region": "Asia",
-      "subregion": "Eastern Asia",
-      "flag": "https://restcountries.eu/data/chn.svg",
-      "name": "China",
-      "alpha2Code": "CN",
-      "currencies": [
-        {
-          "code": "CNY",
-          "name": "Chinese yuan",
-          "symbol": "¥"
-        }
-      ],
-      "englishName": "China"
     },
     {
       "region": "Oceania",
@@ -1531,21 +1576,6 @@
       "englishName": "Jamaica"
     },
     {
-      "region": "Asia",
-      "subregion": "Eastern Asia",
-      "flag": "https://restcountries.eu/data/jpn.svg",
-      "name": "Japan",
-      "alpha2Code": "JP",
-      "currencies": [
-        {
-          "code": "JPY",
-          "name": "Japanese yen",
-          "symbol": "¥"
-        }
-      ],
-      "englishName": "Japan"
-    },
-    {
       "region": "Europe",
       "subregion": "Northern Europe",
       "flag": "https://restcountries.eu/data/jey.svg",
@@ -1624,6 +1654,36 @@
         }
       ],
       "englishName": "Kiribati"
+    },
+    {
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "flag": "https://restcountries.eu/data/kor.svg",
+      "name": "Korea",
+      "alpha2Code": "KR",
+      "currencies": [
+        {
+          "code": "KRW",
+          "name": "South Korean won",
+          "symbol": "₩"
+        }
+      ],
+      "englishName": "Korea"
+    },
+    {
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "flag": "https://restcountries.eu/data/kos.svg",
+      "name": "Kosovo",
+      "alpha2Code": "XK",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "englishName": "Kosovo"
     },
     {
       "region": "Asia",
@@ -2498,21 +2558,6 @@
     {
       "region": "Europe",
       "subregion": "Eastern Europe",
-      "flag": "https://restcountries.eu/data/kos.svg",
-      "name": "Kosovo",
-      "alpha2Code": "XK",
-      "currencies": [
-        {
-          "code": "EUR",
-          "name": "Euro",
-          "symbol": "€"
-        }
-      ],
-      "englishName": "Kosovo"
-    },
-    {
-      "region": "Europe",
-      "subregion": "Eastern Europe",
       "flag": "https://restcountries.eu/data/rou.svg",
       "name": "Romania",
       "alpha2Code": "RO",
@@ -2859,21 +2904,6 @@
         }
       ],
       "englishName": "South Georgia and the South Sandwich Islands"
-    },
-    {
-      "region": "Asia",
-      "subregion": "Eastern Asia",
-      "flag": "https://restcountries.eu/data/kor.svg",
-      "name": "Korea",
-      "alpha2Code": "KR",
-      "currencies": [
-        {
-          "code": "KRW",
-          "name": "South Korean won",
-          "symbol": "₩"
-        }
-      ],
-      "englishName": "Korea"
     },
     {
       "region": "Africa",
@@ -3271,36 +3301,6 @@
       "englishName": "United Arab Emirates"
     },
     {
-      "region": "Europe",
-      "subregion": "Northern Europe",
-      "flag": "https://restcountries.eu/data/gbr.svg",
-      "name": "United Kingdom of Great Britain and Northern Ireland",
-      "alpha2Code": "GB",
-      "currencies": [
-        {
-          "code": "GBP",
-          "name": "British pound",
-          "symbol": "£"
-        }
-      ],
-      "englishName": "United Kingdom of Great Britain and Northern Ireland"
-    },
-    {
-      "region": "Americas",
-      "subregion": "Northern America",
-      "flag": "https://restcountries.eu/data/usa.svg",
-      "name": "United States of America",
-      "alpha2Code": "US",
-      "currencies": [
-        {
-          "code": "USD",
-          "name": "United States dollar",
-          "symbol": "$"
-        }
-      ],
-      "englishName": "United States of America"
-    },
-    {
       "region": "Americas",
       "subregion": "South America",
       "flag": "https://restcountries.eu/data/ury.svg",
@@ -3359,6 +3359,21 @@
         }
       ],
       "englishName": "Viet Nam"
+    },
+    {
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "flag": "https://restcountries.eu/data/vir.svg",
+      "name": "Virgin Islands",
+      "alpha2Code": "VI",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      ],
+      "englishName": "Virgin Islands"
     },
     {
       "region": "Africa",
