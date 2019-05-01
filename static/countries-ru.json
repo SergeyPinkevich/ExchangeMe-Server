@@ -43,7 +43,22 @@
           "symbol": "£"
         }
       ],
-      "englishName": "United Kingdom of Great Britain and North Ireland"
+      "englishName": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    {
+      "region": "Европа",
+      "subregion": "Восточная Европа",
+      "flag": "https://restcountries.eu/data/rus.svg",
+      "name": "Российская Федерация",
+      "alpha2Code": "RU",
+      "currencies": [
+        {
+          "code": "RUB",
+          "name": "Российский рубль",
+          "symbol": "₽"
+        }
+      ],
+      "englishName": "Russian Federation"
     },
     {
       "region": "Азия",
@@ -2359,21 +2374,6 @@
         }
       ],
       "englishName": "Puerto Rico"
-    },
-    {
-      "region": "Европа",
-      "subregion": "Восточная Европа",
-      "flag": "https://restcountries.eu/data/rus.svg",
-      "name": "Российская Федерация",
-      "alpha2Code": "RU",
-      "currencies": [
-        {
-          "code": "RUB",
-          "name": "Российский рубль",
-          "symbol": "₽"
-        }
-      ],
-      "englishName": "Russian Federation"
     },
     {
       "region": "Африка",
